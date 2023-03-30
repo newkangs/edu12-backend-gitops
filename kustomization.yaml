@@ -5,6 +5,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/newkangs/edu12-backend
-  newTag: "20230322092639"
-#- name: newkangs/edu12-backend
-#  newTag: "20230322080446"
+  newTag: "20230330011314"
